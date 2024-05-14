@@ -1,0 +1,23 @@
+{
+  "name": "@protorians/attribution",
+  "version": "0.0.1",
+  "description": "Handle HTML element compound attributes that have multiple values. ",
+  "main": "index.js",
+  "scripts": {
+    "dev": "tsc --watch",
+    "build": "tsc",
+    "postinstall": "npm install typescript@5.4.5 && tsc --project tsconfig-postinstall.json"
+  },
+  "keywords": [],
+  "author": "Yannick Y. GOBOU <protorian.dev@gmail.com>",
+  "repository": {
+    "type": "git",
+    "url": "git@github.com:protorians/attribution.git"
+  },
+  "license": "ISC",
+  "devDependencies": {
+    "@types/node": "^20.12.11",
+    "ts-node": "^10.9.2",
+    "typescript": "^5.4.5"
+  }
+}

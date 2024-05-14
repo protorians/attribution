@@ -1,0 +1,30 @@
+{
+    "compilerOptions": {
+        "noImplicitAny": false,
+        "allowJs": true,
+        "moduleResolution":"NodeNext",
+        "removeComments": false,
+        "target": "esnext",
+        "declaration": false,
+        "declarationMap": false,
+        "inlineSourceMap": false,
+        "inlineSources": false,
+        "strict": true,
+        "esModuleInterop": true,
+        "sourceMap": false,
+        "preserveConstEnums": false,
+        "noUnusedLocals": true,
+        "noUnusedParameters": true,
+        "noImplicitReturns": true,
+        "noEmit": true,
+        "experimentalDecorators": true,
+    },
+    
+    "exclude": [
+        "node_modules",
+        ".npm"
+    ],
+    
+    "include": ["./"]
+  
+  }
