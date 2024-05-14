@@ -2,3 +2,4 @@ node_modules
 *js
 pnpm-lock.yaml
 *lock
+.idea
