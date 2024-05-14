@@ -4,18 +4,24 @@ changelog:
   authors:
     - protorians
   categories:
-    - title: Create `Attribution`
+    - title: Create `Attribution` support
       labels:
         - '*'
-    - title: Create `AttributionSlot`
+    - title: Create `AttributionSlot` support
       labels:
         - '*'
-    - title: Create `resolveAttrib`
+    - title: Create `resolveAttrib` function
       labels:
         - '*'
-    - title: Create `resolveAttribName`
+    - title: Create `resolveAttribName` function
       labels:
         - '*'
-    - title: Create `resolveAttribNames`
+    - title: Create `resolveAttribNames` function
+      labels:
+        - '*'
+    - title: Create `attrib` facade
+      labels:
+        - '*'
+    - title: Create `attribSlot` facade
       labels:
         - '*'
