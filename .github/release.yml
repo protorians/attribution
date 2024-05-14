@@ -1,0 +1,9 @@
+# .github/release.yml
+
+changelog:
+  authors:
+    - protorians
+  categories:
+    - title: Initial version
+      labels:
+        - '*'
