@@ -4,6 +4,18 @@ changelog:
   authors:
     - protorians
   categories:
-    - title: Initial version
+    - title: Create `Attribution`
+      labels:
+        - '*'
+    - title: Create `AttributionSlot`
+      labels:
+        - '*'
+    - title: Create `resolveAttrib`
+      labels:
+        - '*'
+    - title: Create `resolveAttribName`
+      labels:
+        - '*'
+    - title: Create `resolveAttribNames`
       labels:
         - '*'
