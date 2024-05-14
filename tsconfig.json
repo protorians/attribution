@@ -3,6 +3,7 @@
         "noImplicitAny": false,
         "allowJs": true,
         "moduleResolution":"NodeNext",
+        "module": "NodeNext",
         "removeComments": false,
         "target": "esnext",
         "declaration": false,

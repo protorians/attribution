@@ -1,6 +1,6 @@
 {
   "name": "@protorians/attribution",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "Handle HTML element compound attributes that have multiple values. ",
   "main": "index.js",
   "scripts": {

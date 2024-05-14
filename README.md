@@ -1,5 +1,14 @@
 # Protorians Attribution  
 Handle HTML element compound attributes that have multiple values. 
+
+## Installation
+NPM : `npm install @protorians/attribution`
+
+YARN : `yarn install @protorians/attribution`
+
+PNPM : `pnpm i @protorians/attribution`
+
+`Note` : If you observed an `EACCES code` type error, you should use `sudo` or an equivalent to install it as administrator 
   
 ## Use case   
 Let's start from the fact that we have an attribute of an HTML element which brings together several values to then define a particular behavior with CSS.
