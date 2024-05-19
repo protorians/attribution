@@ -6,22 +6,25 @@ changelog:
   categories:
     - title: Create `Attribution` support
       labels:
-        - '*'
+        - 'added'
     - title: Create `AttributionSlot` support
       labels:
-        - '*'
+        - 'added'
     - title: Create `resolveAttrib` function
       labels:
-        - '*'
+        - 'added'
     - title: Create `resolveAttribName` function
       labels:
-        - '*'
+        - 'added'
     - title: Create `resolveAttribNames` function
       labels:
-        - '*'
+        - 'added'
     - title: Create `attrib` facade
       labels:
-        - '*'
+        - 'added'
     - title: Create `attribSlot` facade
+      labels:
+        - 'added'
+    - title: Delete `postinstall` script
       labels:
         - '*'

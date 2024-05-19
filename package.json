@@ -5,8 +5,7 @@
   "main": "index.js",
   "scripts": {
     "dev": "tsc --watch",
-    "build": "tsc",
-    "postinstall": "npm install typescript@5.4.5 && tsc --project tsconfig-postinstall.json"
+    "build": "tsc"
   },
   "keywords": [],
   "author": "Yannick Y. GOBOU <protorian.dev@gmail.com>",
